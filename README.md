@@ -27,7 +27,7 @@ The website includes:
 
 Open the website using this link:
 
-👉 https://AnnaZadorenko.github.io/cs3043-final-project-AZ/
+👉 https://AnnaZadorenko.github.io/Final-Project-cs3043-AZ/
 
 ---
 
