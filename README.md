@@ -29,7 +29,7 @@ Open the website using this link:
 
 https://AnnaZadorenko.github.io/Final-Project-cs3043-AZ/
 
-https://github.com/AnnaZadorenko/Final-Project-cs3043-AZ
+
 ---
 
 ### Option 2 (Run Locally)
